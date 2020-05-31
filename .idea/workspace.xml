@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f44130a7-b2dd-4dd3-b400-fea9aa7cbaa3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/js/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/photo-work.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/works.html" beforeDir="false" afterPath="$PROJECT_DIR$/jobs.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +61,7 @@
       <workItem from="1585810191019" duration="285000" />
       <workItem from="1586535467798" duration="1319000" />
       <workItem from="1586587710919" duration="9000" />
-      <workItem from="1590915474460" duration="9607000" />
+      <workItem from="1590915474460" duration="10111000" />
     </task>
     <servers />
   </component>
@@ -83,6 +77,10 @@
       <screen x="0" y="0" width="1676" height="902" />
     </state>
     <state x="674" y="382" key="NewPhpFileDialog/0.0.1676.902@0.0.1676.902" timestamp="1585566302362" />
+    <state x="547" y="84" width="581" height="732" key="find.popup" timestamp="1590956747046">
+      <screen x="0" y="0" width="1676" height="902" />
+    </state>
+    <state x="547" y="84" width="581" height="732" key="find.popup/0.0.1676.902@0.0.1676.902" timestamp="1590956747046" />
     <state x="494" y="206" key="run.anything.popup" timestamp="1585259956904">
       <screen x="0" y="0" width="1676" height="902" />
     </state>
