@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f44130a7-b2dd-4dd3-b400-fea9aa7cbaa3" name="Default Changelist" comment="" />
+    <list default="true" id="f44130a7-b2dd-4dd3-b400-fea9aa7cbaa3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/photo-work.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/works.html" beforeDir="false" afterPath="$PROJECT_DIR$/jobs.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +21,16 @@
       <executable />
     </execution>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZWt9zRkDll6W94WIEVAaRkiGMf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -20,9 +39,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../rose" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -45,6 +65,9 @@
       <workItem from="1585665255542" duration="8399000" />
       <workItem from="1585745329726" duration="6883000" />
       <workItem from="1585810191019" duration="285000" />
+      <workItem from="1586535467798" duration="1319000" />
+      <workItem from="1586587710919" duration="9000" />
+      <workItem from="1590915474460" duration="9607000" />
     </task>
     <servers />
   </component>
@@ -52,10 +75,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="572" y="209" key="FileChooserDialogImpl" timestamp="1585233756948">
+    <state x="572" y="209" key="FileChooserDialogImpl" timestamp="1586536784577">
       <screen x="0" y="0" width="1676" height="902" />
     </state>
-    <state x="572" y="209" key="FileChooserDialogImpl/0.0.1676.902@0.0.1676.902" timestamp="1585233756948" />
+    <state x="572" y="209" key="FileChooserDialogImpl/0.0.1676.902@0.0.1676.902" timestamp="1586536784577" />
     <state x="674" y="382" key="NewPhpFileDialog" timestamp="1585566302362">
       <screen x="0" y="0" width="1676" height="902" />
     </state>

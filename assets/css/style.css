@@ -1,5 +1,5 @@
 #header {
-    background-image: url("http://localhost/job-board/assets/images/image1.svg");
+    background-image: url("../images/image1.svg");
     height: 100vh;
     position: relative;
 
@@ -70,6 +70,7 @@ header a, header a:hover {
 
 .n-title {
     color: #F61067;
+
 }
 
 .button-first a, .button-first a:hover {
@@ -107,8 +108,8 @@ header a, header a:hover {
 
 #section2 .rrethi {
     border: 2px solid #5E239D;
-    width: 150px;
-    height: 150px;
+    width: 160px;
+    height: 160px;
     display: flex;
     background-color: #5E239D;
     color: white;
@@ -185,7 +186,7 @@ header a, header a:hover {
 
 
 #image-works {
-    background-image: url("http://localhost/job-board/assets/images/photo-work.svg");
+    background-image: url("../images/photo-work.png");
     width: 100%;
     height: 350px;
     background-repeat: no-repeat;
@@ -200,6 +201,7 @@ header a, header a:hover {
     z-index: 50;
     font-weight: 400;
     padding-top: 130px;
+    display: none;
 }
 
 .title-work p {
@@ -237,6 +239,23 @@ header a, header a:hover {
 
 #section3-works h2 {
     color: #F61067;
+}
+
+.page-title {
+    color: #F61067;
+}
+
+.form {
+    border: 2px solid #5E239D;
+    color: white;
+}
+
+#section-contact {
+    background-color: #e8e8e8;
+}
+
+.send {
+    background-color: #F61067;
 }
 
 .button-lookmore {
@@ -280,7 +299,7 @@ header a, header a:hover {
 
 
 #image-contact {
-    background-image: url("http://localhost/job-board/assets/images/contact.svg");
+    background-image: url("../images/contact.svg");
     width: 100%;
     height: 350px;
     background-repeat: no-repeat;
