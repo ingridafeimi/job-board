@@ -103,6 +103,7 @@ header a, header a:hover {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-wrap: wrap;
 }
 
 
@@ -305,4 +306,10 @@ header a, header a:hover {
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
+}
+
+@media (max-width: 767.98px) {
+    .title {
+        font-size: 60px
+    }
 }
